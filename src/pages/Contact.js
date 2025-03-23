@@ -186,7 +186,10 @@ const Contact = () => {
                 </div>
                 <div className="flex flex-col">
                   <h2 className="text-2xl">Office Address</h2>
-                  <p className="text-gray-400">Ilo Awela, Ota, Ogun State</p>
+                  <p className="text-gray-400">
+                    S-2, Nilkanth Elegance, opp. Saraswati school, Kalikund,
+                    Dholka, Gujarat 382225
+                  </p>
                 </div>
               </div>
 
@@ -197,7 +200,7 @@ const Contact = () => {
 
                 <div className="flex flex-col">
                   <h2 className="text-2xl">Call Us</h2>
-                  <p className="text-gray-400">Tel: 08055384406</p>
+                  <p className="text-gray-400">Tel: 09313246812</p>
 
                   <div className="mt-5">
                     <h2 className="text-2xl">Send an E-mail</h2>
